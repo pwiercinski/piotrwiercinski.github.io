@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Something Beautiful!"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World!
 ======
 Welcome to my blog! My name is Piotr and I solve problems using Maths and computers. <br><br>
-This aim of this blog is to help systematise my learning as well as motivate me to do it, so I can boast about it here. <br>
-Hopefully in the meantime I can also leave something others might find useful.
+This aim of this blog is to help systematise and motivate me to learn, so I can boast about it here. Hopefully in the meantime I can also leave something others might find useful.
 
