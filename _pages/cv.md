@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. Statistics, University of Warwick, 2017
+* BSc. Finance & Economics, University of Lancaster, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2018 - Present: Data Scientist @ Your.MD
+* September 2017 - November 2018: Data Scientist @ Miralis Data
+* Summer 2017: Research Student @ AstraZeneca
+* Summer 2015: Investment Banking Intern @ mCorporate Finance S.A.
   
 Skills
 ======
@@ -36,11 +30,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Fun facts
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* In Summer 2013 I worked as a rickshaw rider in London.
   
 Talks
 ======
